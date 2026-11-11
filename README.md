@@ -10,3 +10,4 @@ Authoritative SKU → reporting-segment classification for Halvorsen Measurement
 ## Review Log
 
 FY26-Q2 | REV-2026.2 | 8 segments | Q2 FY26 Segment Concentration Review
+FY26-Q3 | REV-2026.3 | 8 segments | Q3 FY26 Segment Concentration Review
