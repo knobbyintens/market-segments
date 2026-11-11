@@ -1,0 +1,211 @@
+sku,item_label,segment
+HMG-10216,Harmonic Gear 14:1,Motion Control
+HMG-10940,Thermoelectric Cooler 12A,Thermal Systems
+HMG-12158,Radiator Core 400mm,Thermal Systems
+HMG-12884,Graphite Sheet 40um,Thermal Systems
+HMG-13000,Heat Pipe HP-220,Thermal Systems
+HMG-13633,Precision Source 10V,Test Instruments
+HMG-13772,Data Logger 16ch,Test Instruments
+HMG-13976,Fan Sink 80mm,Thermal Systems
+HMG-14552,Condenser Lens 60mm,Precision Optics
+HMG-14846,Patch Panel 24P,Connectivity
+HMG-15617,Fiber Cleaver,Connectivity
+HMG-15752,Manifold 6-port,Fluid Handling
+HMG-16786,RJ45 Jack Cat6,Connectivity
+HMG-17643,Liquid Cold Plate LC-7,Thermal Systems
+HMG-18686,Flow Switch 1/2in,Fluid Handling
+HMG-18926,Pin Fin Heatsink 50W,Thermal Systems
+HMG-19001,Safety Relay 24V,Motion Control
+HMG-19676,Plano-Convex Lens 50mm,Precision Optics
+HMG-19902,Solid State Relay 25A,Power Electronics
+HMG-19910,Band Heater 50mm,Thermal Systems
+HMG-20606,Kinematic Mount 2in,Precision Optics
+HMG-21005,Phase Change Material 60C,Thermal Systems
+HMG-21410,Mass Flow Controller 100sccm,Fluid Handling
+HMG-22621,QSFP Transceiver 40G,Connectivity
+HMG-23859,Power Meter 3ph,Power Electronics
+HMG-24064,Motor Circuit Breaker,Power Electronics
+HMG-24428,Post Holder 12mm,Precision Optics
+HMG-24488,Servo Drive SD-480,Motion Control
+HMG-25301,Chiller Unit 1kW,Thermal Systems
+HMG-25337,Bandpass Filter 532nm,Precision Optics
+HMG-25641,Thermal Chamber 225L,Thermal Systems
+HMG-26153,GPIB Controller,Connectivity
+HMG-27400,Vapor Chamber VC-15,Thermal Systems
+HMG-28088,Universal Joint 12mm,Motion Control
+HMG-28546,Rectifier Bridge 25A,Power Electronics
+HMG-28965,Mirror Substrate 25mm,Precision Optics
+HMG-30045,Environmental Chamber 100L,Thermal Systems
+HMG-30519,Stepper Motor NEMA23,Motion Control
+HMG-30585,Antenna 2.4GHz,Connectivity
+HMG-31197,SiC Diode 650V,Power Electronics
+HMG-31575,Off-Axis Parabola 50mm,Precision Optics
+HMG-31641,Iris Diaphragm 25mm,Precision Optics
+HMG-31813,Buck Converter 5A,Power Electronics
+HMG-31881,BNC Connector 75ohm,Connectivity
+HMG-32406,Encoder 20bit,Motion Control
+HMG-33294,Serial Adapter RS232,Connectivity
+HMG-33675,USB Hub 4P,Connectivity
+HMG-33794,Syringe Pump 100uL,Fluid Handling
+HMG-33812,Silicone Heater 100W,Thermal Systems
+HMG-34222,Butterfly Valve 50mm,Fluid Handling
+HMG-34285,Pulsation Damper 100mL,Fluid Handling
+HMG-34456,Industrial Switch 16P,Connectivity
+HMG-35000,Leak Detector Ultrasonic,Fluid Handling
+HMG-35519,Ethernet Switch 8P,Connectivity
+HMG-35638,Longpass Filter 650nm,Precision Optics
+HMG-36107,Rotameter 10LPM,Fluid Handling
+HMG-36548,Load Bank 5kW,Power Electronics
+HMG-37347,Ball Screw 16mm,Motion Control
+HMG-37631,USB-C Dock 12P,Connectivity
+HMG-37976,Thermistor NTC 10k,Thermal Systems
+HMG-38511,Power Analyzer 2ch,Test Instruments
+HMG-38888,Solenoid Valve 3-way,Fluid Handling
+HMG-38925,Signal Generator 1GHz,Test Instruments
+HMG-39343,LCR Meter 100kHz,Test Instruments
+HMG-39497,Planetary Gearbox 20:1,Motion Control
+HMG-40019,Diaphragm Pump 12V,Fluid Handling
+HMG-41124,Ball Valve 12mm,Fluid Handling
+HMG-41324,Media Converter 1G,Connectivity
+HMG-41753,Wiring Harness 1m,Power Electronics
+HMG-42276,Spectrum Analyzer 3GHz,Test Instruments
+HMG-42548,Frequency Counter 10GHz,Test Instruments
+HMG-42648,Quick Connect 8mm,Fluid Handling
+HMG-42847,Current Sensor 50A,Power Electronics
+HMG-42858,Gear Pump 5L,Fluid Handling
+HMG-42903,Fuse Holder 32A,Power Electronics
+HMG-43441,Temperature Calibration Well,Calibration Services
+HMG-43672,Transformer 500W,Power Electronics
+HMG-45028,Digital Multimeter 6.5d,Test Instruments
+HMG-45030,Voltage Monitor 600V,Power Electronics
+HMG-45110,Busbar Kit 400A,Power Electronics
+HMG-45193,Rack and Pinion 1m,Motion Control
+HMG-45202,Eyepiece 15x,Precision Optics
+HMG-45287,Loopback Plug RJ45,Connectivity
+HMG-45670,Diffraction Grating 600lpm,Precision Optics
+HMG-45675,Pressure Regulator 6bar,Fluid Handling
+HMG-45906,Tubing FEP 3mm,Fluid Handling
+HMG-46571,Check Valve 1/4in,Fluid Handling
+HMG-46894,Pressure Sensor 0-10bar,Fluid Handling
+HMG-47105,IGBT Module 600V,Power Electronics
+HMG-47211,Reservoir Tank 5L,Fluid Handling
+HMG-47411,Inductor Toroid 220uH,Power Electronics
+HMG-47509,UV Fused Silica Window,Precision Optics
+HMG-47689,Tube Lens 200mm,Precision Optics
+HMG-49818,DIN Rail Mount,Connectivity
+HMG-49948,Rotary Stage RS-100,Motion Control
+HMG-50235,Linear Actuator LA-200,Motion Control
+HMG-51146,Boost Converter 10A,Power Electronics
+HMG-51353,Dew Point Sensor -40C,Thermal Systems
+HMG-51507,Thermal Grease 5g,Thermal Systems
+HMG-52723,Fiber LC Adapter,Connectivity
+HMG-53353,Mixing Chamber 50mL,Fluid Handling
+HMG-53640,Antenna 5GHz,Connectivity
+HMG-54404,Servo Motor 400W,Motion Control
+HMG-55161,Recirculating Chiller 2kW,Thermal Systems
+HMG-55272,Fiber Collimator FC,Precision Optics
+HMG-55366,Stepper Motor NEMA17,Motion Control
+HMG-55837,Cryo Cold Plate CP-9,Thermal Systems
+HMG-56490,Aspheric Lens 12mm,Precision Optics
+HMG-57351,Dove Prism 25mm,Precision Optics
+HMG-57434,Linear Bearing 20mm,Motion Control
+HMG-57489,Timing Belt 3mm,Motion Control
+HMG-57541,Infrared Thermometer 600C,Thermal Systems
+HMG-57867,Calibration Kit 10N,Calibration Services
+HMG-58270,PoE Injector 60W,Connectivity
+HMG-59444,Thermal Pad 1.5mm,Thermal Systems
+HMG-59734,Inverter Module 3kW,Power Electronics
+HMG-59825,Thermocouple K Type,Thermal Systems
+HMG-60366,Optical Mount 1in,Precision Optics
+HMG-60886,Inline Filter 10um,Fluid Handling
+HMG-61601,Voice Coil Motor VCM-30,Motion Control
+HMG-61909,Right-Angle Prism 15mm,Precision Optics
+HMG-62774,Piston Pump 40bar,Fluid Handling
+HMG-63179,Rail Carrier 40mm,Precision Optics
+HMG-63428,Lead Screw 8mm,Motion Control
+HMG-63948,RS485 Converter,Connectivity
+HMG-64234,DC-DC Converter 12V,Power Electronics
+HMG-64468,Furnace Tube 1200C,Thermal Systems
+HMG-65706,Capacitor Bank 470uF,Power Electronics
+HMG-66019,Brake Resistor 100W,Motion Control
+HMG-66667,Tubing PTFE 6mm,Fluid Handling
+HMG-67992,Flow Meter 5LPM,Fluid Handling
+HMG-68251,Resolver 1Vpp,Motion Control
+HMG-68370,Thermal Imager 320p,Thermal Systems
+HMG-68920,UPS Module 3kVA,Power Electronics
+HMG-69358,Cable Tester 8P,Connectivity
+HMG-70066,Terminal Block 10mm,Power Electronics
+HMG-70248,Linear Stage LS-300,Motion Control
+HMG-70440,Function Generator 20MHz,Test Instruments
+HMG-71043,Proximity Sensor 8mm,Motion Control
+HMG-71402,Holographic Grating 1200lpm,Precision Optics
+HMG-71696,Cylindrical Lens 30mm,Precision Optics
+HMG-71881,Redundant PSU 500W,Power Electronics
+HMG-72170,Coax Cable 3m,Connectivity
+HMG-72606,SFP+ Module 10G,Connectivity
+HMG-72716,Muffle Chamber 30L,Thermal Systems
+HMG-73582,Objective Lens 10x,Precision Optics
+HMG-74065,Polarizer Film 100mm,Precision Optics
+HMG-74369,Cable Gland M16,Connectivity
+HMG-74675,Humidity Chamber 50L,Thermal Systems
+HMG-74709,Achromatic Lens 40mm,Precision Optics
+HMG-75468,Rotation Mount 360,Precision Optics
+HMG-75504,Achromatic Lens 25mm,Precision Optics
+HMG-75522,Waveplate 633nm,Precision Optics
+HMG-75703,Isolation Transformer 2kVA,Power Electronics
+HMG-76965,Translation Stage 25mm,Precision Optics
+HMG-77014,Limit Switch NC,Motion Control
+HMG-77143,Peristaltic Pump 3ch,Fluid Handling
+HMG-78383,Calibrator 4-20mA,Test Instruments
+HMG-78522,IR Filter 8.5um,Precision Optics
+HMG-78639,Peltier Module 40x40,Thermal Systems
+HMG-78766,Pressure Calibration Bench,Calibration Services
+HMG-79110,EtherCAT Module,Motion Control
+HMG-79289,Cross Roller Table 80mm,Motion Control
+HMG-81057,Power Supply 24V 10A,Power Electronics
+HMG-81184,Fiber Coupler SMA,Precision Optics
+HMG-81294,VNA 6GHz,Test Instruments
+HMG-81558,Distribution Panel 12W,Power Electronics
+HMG-81750,RTD Sensor PT100,Thermal Systems
+HMG-82785,Heater Cartridge 12V,Thermal Systems
+HMG-83619,Optical Flat 50mm,Precision Optics
+HMG-83796,Torque Calibration Set,Calibration Services
+HMG-84074,Level Sensor 24V,Fluid Handling
+HMG-85335,Insulation Blanket 500mm,Thermal Systems
+HMG-86381,Solenoid Valve 2-way,Fluid Handling
+HMG-86652,Centrifugal Pump 20L,Fluid Handling
+HMG-87249,Objective Lens 40x,Precision Optics
+HMG-87432,Coupling Jaw 8mm,Motion Control
+HMG-87674,EMI Filter 20A,Power Electronics
+HMG-87741,Bellows Coupling 10mm,Motion Control
+HMG-87757,Heat Exchanger 20kW,Thermal Systems
+HMG-88106,Copper Spreader 2U,Thermal Systems
+HMG-89194,Needle Valve 1/8in,Fluid Handling
+HMG-89836,Cam Follower 22mm,Motion Control
+HMG-90289,Retroreflector 12.7mm,Precision Optics
+HMG-90729,Piezo Stage PZ-5,Motion Control
+HMG-92000,Keystone Jack 10G,Connectivity
+HMG-92163,Fiber Patch Cord 2m,Connectivity
+HMG-92339,Oscilloscope 200MHz,Test Instruments
+HMG-92391,Differential Pressure Sensor,Fluid Handling
+HMG-93076,Motion Controller 4-axis,Motion Control
+HMG-93308,Gantry Frame 600mm,Motion Control
+HMG-93533,CAN Bus Adapter,Connectivity
+HMG-93612,Pellicle Beamsplitter,Precision Optics
+HMG-93723,OTDR Module 1310nm,Connectivity
+HMG-94311,Drain Valve 1in,Fluid Handling
+HMG-94738,MOSFET Driver 30A,Power Electronics
+HMG-94795,Biconvex Lens 18mm,Precision Optics
+HMG-94890,SFP Module 1G,Connectivity
+HMG-95100,SMA Connector 50ohm,Connectivity
+HMG-95333,Energy Analyzer 400Hz,Power Electronics
+HMG-96070,Patch Cable 1m,Connectivity
+HMG-97362,Contactor 40A,Power Electronics
+HMG-97419,Drive Amplifier 24V,Motion Control
+HMG-97781,Surge Protector 40kA,Power Electronics
+HMG-97931,Beam Splitter Cube 20mm,Precision Optics
+HMG-97934,Film Capacitor 100uF,Power Electronics
+HMG-98370,Barbed Fitting 1/4in,Fluid Handling
+HMG-99030,Degassing Module,Fluid Handling
+HMG-99147,Battery Charger 48V,Power Electronics
+HMG-99978,Worm Gearbox 40:1,Motion Control
